@@ -1,0 +1,10 @@
+torch
+transformers
+fastapi
+uvicorn
+langchain
+fastmcp
+requests
+scikit-learn
+pandas
+numpy
